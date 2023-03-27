@@ -212,7 +212,7 @@ marquee {
     transition: 0.1s ease;
 }
 
-#mainpage .feature-products .content .product-box:hover {
+.product-box:hover {
     transition: 0.1s ease;
     transform: scale(1.01);
     box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.5);
@@ -359,6 +359,10 @@ marquee {
 
     #mainpage .feature-products .content {
         justify-content: space-around;
+    }
+
+    #mainpage .products .product-box {
+        width: 300px;
     }
 
 }
