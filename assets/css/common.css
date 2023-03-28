@@ -698,6 +698,10 @@ marquee {
         overflow-y: auto;
     }
 
+    .main-video {
+        margin-top: 52px;
+    }
+
     #gnavi {
         background-color: #fff;
         display: none;
