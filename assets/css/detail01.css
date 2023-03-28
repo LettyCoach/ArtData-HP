@@ -5,10 +5,12 @@
   background-size: cover;
   height: 250px;
   display: flex;
-  justify-content: left;
+  justify-content: flex-start;
   align-items: center;
 }
-
+.section_bg div {
+  width: 100%;
+}
 /* Text-control */
 .font-white {
   color: white;
@@ -228,7 +230,9 @@ ul.breadcrumb li a:hover {
   .sectionOne {
     flex-direction: column-reverse;
   }
-
+  .section_bg {
+    margin-top: 52px;
+  }
   .sectionOne .left,
   .sectionOne .right {
     width: 100%;

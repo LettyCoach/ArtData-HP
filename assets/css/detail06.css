@@ -11,7 +11,9 @@
 .section_bg div {
   width: 100%;
 }
-
+.mt-10 {
+  margin-top: 10px;
+}
 /* Text-control */
 .font-white {
   color: white;
