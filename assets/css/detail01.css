@@ -158,7 +158,7 @@ ul.breadcrumb li a:hover {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background-color: blue;
+  background-color: #006DDA;
 }
 
 .row,
@@ -213,7 +213,7 @@ ul.breadcrumb li a:hover {
 
 .content_img img {
   margin-bottom: unset;
-  width: 50%;
+  width: 83%;
   height: 100%;
   object-fit: cover;
   display: flex;

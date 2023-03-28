@@ -791,3 +791,9 @@ marquee {
         margin-top: 20px;
     }
 }
+
+@media(max-width: 1199px) {
+    #mainpage .feature-products .content {
+        justify-content: space-around;
+    }
+}
